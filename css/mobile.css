@@ -210,7 +210,7 @@ body {
 .bananas__img {
 	display: flex;
 	padding-top: 10px;
-	max-width: 380px;
+	max-width: 300px;
 }
 
 .bananas__img img {
